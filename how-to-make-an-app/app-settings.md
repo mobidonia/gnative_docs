@@ -18,11 +18,11 @@ First, you should make your facebook app id.
 
 - For iOS in the BundleID just add **host.exp.Exponent**, look at the picture below.
 
-![](../.gitbook/assets/screenshot%20%282%29.png)
+![](../.gitbook/assets/screenshot%20%283%29.png)
 
 - For Android in the Key Hashes just add **rRW++LUjmZZ+58EbN5DVhGAnkX4=** , look at the picture below.
 
-![](../.gitbook/assets/screenshot%20%2813%29.png)
+![](../.gitbook/assets/screenshot%20%2816%29.png)
 
 - On the top of [https://developers.facebook.com/apps](https://developers.facebook.com/apps) you should see your **APP ID**, copy the id and set it to the facebookID field in your React App Builder.
 
@@ -53,7 +53,7 @@ Create an Android OAuth Client ID
 
 And \* Now you have googleIOSId and googleAndroidID set them to your React App Builder in the fields named  googleIOSId and googleAndroidID.
 
-![](../.gitbook/assets/screenshot%20%287%29.png)
+![](../.gitbook/assets/screenshot%20%288%29.png)
 
 ### Orders
 
@@ -71,7 +71,7 @@ Ads settings include this options \[BannerID, InterstitialID, IsTesting, ShowBan
 
 On this [link](https://admob.google.com/home/) you can create your banner and interstitial ads. When you will have the ids please set them to the BannerId and InterstitialId.
 
-![](../.gitbook/assets/screenshot%20%288%29.png)
+![](../.gitbook/assets/screenshot%20%289%29.png)
 
 ### PayPal
 
@@ -83,7 +83,7 @@ PayPal payment settings include this options \[AcceptPayments, Cancel url, City,
 
 On this [link](https://developer.paypal.com/developer/accounts/) to create your PayPal account. And there create **Paypal Merchant Account.** After creating the account you should set up the fields in your React App Builder.
 
-![](../.gitbook/assets/screenshot%20%283%29.png)
+![](../.gitbook/assets/screenshot%20%284%29.png)
 
 
 
