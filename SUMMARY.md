@@ -6,4 +6,7 @@
 
 * [Create first app](how-to-make-an-app/download-template.md)
 * [Manage the app](how-to-make-an-app/manage-the-app.md)
+* [Section content](how-to-make-an-app/section-content.md)
+* [App design](how-to-make-an-app/app-design.md)
+* [App settings](how-to-make-an-app/app-settings.md)
 
