@@ -4,5 +4,5 @@
 
 ## How to make an App
 
-* [Download template](how-to-make-an-app/download-template.md)
+* [Create first app](how-to-make-an-app/download-template.md)
 
