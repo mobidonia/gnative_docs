@@ -2,7 +2,7 @@
 
 To submit your app to be compiled, click on the "Submit App"
 
-![](../.gitbook/assets/screenshot%20%2810%29.png)
+![](../.gitbook/assets/screenshot%20%2811%29.png)
 
 Click on the **Submit App** button
 
@@ -14,7 +14,7 @@ We will send you a link that contains a .aab file. This is new version of apk fi
 
 For iPhone app you will need to send us email with some required information as we can process that for submitting the app.
 
-![](../.gitbook/assets/screenshot%20%2813%29.png)
+![](../.gitbook/assets/screenshot%20%2815%29.png)
 
 What we will do, is we will compile and make your app. But we will need you to provide us with your Apple Developer Account credentials \( 99$/y \) so we can upload your iPhone app. There is option also to upload the app on ours Apple Dev Account. So Pls emails us with your requirements.
 

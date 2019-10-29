@@ -15,13 +15,15 @@ By clicking on Add section you can add the additional section that you need. You
 
 When you click on the section it should appear an alert that says that new section in successfully added, just like at the picture below.
 
-![](../.gitbook/assets/screenshot%20%287%29.png)
+#### **Important: After adding new section you need to update your Google Spreadsheet template. Follow next article \(Section content\) for detailed information.** 
+
+![](../.gitbook/assets/screenshot%20%288%29.png)
 
 **Section settings**
 
 By clicking on the gear icon in the section, this is the settings icon, it will open a completely new view where you can select different setup for this menu. Look at the picture below.
 
-![](../.gitbook/assets/screenshot%20%286%29.png)
+![](../.gitbook/assets/screenshot%20%287%29.png)
 
 When you click on the icon it should open a view like this one in the picture below.
 
